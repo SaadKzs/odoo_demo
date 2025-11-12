@@ -1,0 +1,1 @@
+TESTETS , quel genre de test pour etre embaucher chez odoo 
